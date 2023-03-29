@@ -1,0 +1,24 @@
+.note-editor {
+    font-family: "Palatino Linotype", Poppins, Helvetica, sans-serif !important;
+}
+
+.note-toolbar .note-dropdown-menu.note-check a i {
+    visibility: visible;
+    color: #212529;
+}
+
+.note-icon-menu-check:before {
+    display: none;
+}
+
+.note-editing-area {
+    font-size: 16px;
+}
+
+body,
+.form-control,
+.form-control:focus,
+.dropdown-menu,
+.bootstrap-select .dropdown-toggle{
+    color: black;
+}
